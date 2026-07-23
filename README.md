@@ -1,5 +1,5 @@
-# Task_2
-#  Mushroom Classification (Project 2)
+# Task_3
+#  Mushroom Classification (Project 3)
 
 ## 📌 Overview
 This is my **second internship project**, where I developed a Machine Learning model to classify mushrooms as **Edible** or **Poisonous** based on their physical characteristics. The project demonstrates the application of supervised learning techniques for solving real-world classification problems.
@@ -45,7 +45,7 @@ The model achieved high classification accuracy on the test dataset.
 ## 👨‍💻 Author
 **Kuldeep Singh Narwal**  
 B.Tech CSE (AI & ML)  
-**Internship Project – 2**
+**Internship Project – 3**
 <br>
 **CODETECH IT SOLUTIONS**
 <br>
