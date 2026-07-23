@@ -49,5 +49,5 @@ B.Tech CSE (AI & ML)
 <br>
 **CODETECH IT SOLUTIONS**
 <br>
-** Intership ID : CITS6149**
+Intership ID : CITS6149
 
